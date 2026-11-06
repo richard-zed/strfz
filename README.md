@@ -1,6 +1,6 @@
 # strfz
 
-`strftime` for Zig 0.16 — one pure file, no allocator, no libc, no timezone
+`strftime` for Zig 0.16+ — one pure file, no allocator, no libc, no timezone
 database.
 
 ## Disclaimer
